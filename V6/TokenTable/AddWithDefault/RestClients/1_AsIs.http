@@ -1,2 +1,0 @@
-POST http://localhost:9008/V6/TokenTable/AddWithDefault/AsIs
-Content-Type: application/json

@@ -1,2 +1,0 @@
-POST http://localhost:9008/SV6/UsersTable/Insert/OnlyDefault
-Content-Type: application/json

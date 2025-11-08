@@ -1,9 +1,0 @@
-POST http://localhost:9008/V5/BillItemsTable/Insert/AsIsAndTS
-Content-Type: application/json
-
-{
-  "ItemName": "",
-  "Rate": "",
-  "Qty": "",
-  "Amount": ""
-}

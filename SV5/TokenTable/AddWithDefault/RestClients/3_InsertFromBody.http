@@ -1,4 +1,0 @@
-POST http://localhost:9008/SV5/TokenTable/AddWithDefault/InsertFromBody
-Content-Type: application/json
-
-{ "Key": "","Value":"" }

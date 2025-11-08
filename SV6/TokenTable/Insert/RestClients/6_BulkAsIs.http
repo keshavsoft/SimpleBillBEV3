@@ -1,8 +1,0 @@
-POST http://localhost:9008/SV6/TokenTable/Insert/BulkAsIs
-Content-Type: application/json
-
-[
-  {
-    "Secret": ""
-  }
-]

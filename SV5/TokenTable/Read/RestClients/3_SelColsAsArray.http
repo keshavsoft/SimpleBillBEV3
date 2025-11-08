@@ -1,4 +1,0 @@
-POST http://localhost:9008/SV5/TokenTable/Read/SelColsAsArray
-Content-Type: application/json
-
-[ "exampleKey"]

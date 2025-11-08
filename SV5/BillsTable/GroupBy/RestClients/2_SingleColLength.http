@@ -1,6 +1,0 @@
-POST http://localhost:9008/SV5/BillsTable/GroupBy/SingleColLength
-Content-Type: application/json
-
-[
-	{ColumnsName}
-]

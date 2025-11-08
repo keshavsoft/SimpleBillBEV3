@@ -1,6 +1,0 @@
-POST http://localhost:9008/SV6/BillItemsTable/GroupBy/SetSingleColumn
-Content-Type: application/json
-
-[
-	{ColumnsName}
-]

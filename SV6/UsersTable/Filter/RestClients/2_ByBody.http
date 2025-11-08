@@ -1,4 +1,0 @@
-POST http://localhost:9008/SV6/UsersTable/Filter/ByBody
-Content-Type: application/json
-
-{"inKey":"element.","inValue":""}

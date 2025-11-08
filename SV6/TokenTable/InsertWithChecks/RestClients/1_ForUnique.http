@@ -1,6 +1,0 @@
-POST http://localhost:9008/SV6/TokenTable/InsertWithChecks/ForUnique
-Content-Type: application/json
-
-{
-  "Secret": ""
-}

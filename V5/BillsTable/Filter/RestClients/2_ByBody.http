@@ -1,4 +1,0 @@
-POST http://localhost:9008/V5/BillsTable/Filter/ByBody
-Content-Type: application/json
-
-{"inKey":"element.","inValue":""}

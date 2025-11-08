@@ -1,6 +1,0 @@
-POST http://localhost:9008/SV6/TokenTable/Alter/ColumnsWithPk/{pk}
-Content-Type: application/json
-
-{
-  "Secret": ""
-}

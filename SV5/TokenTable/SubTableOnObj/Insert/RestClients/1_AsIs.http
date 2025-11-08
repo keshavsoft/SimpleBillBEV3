@@ -1,6 +1,0 @@
-POST http://localhost:9008/SV5/TokenTable/SubTableOnObj/Insert/AsIs/{RowIndex}/{KeyName}
-Content-Type: application/json
-
-{
-  "Secret": ""
-}

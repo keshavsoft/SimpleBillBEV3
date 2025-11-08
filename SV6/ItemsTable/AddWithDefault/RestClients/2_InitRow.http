@@ -1,4 +1,0 @@
-POST http://localhost:9008/SV6/ItemsTable/AddWithDefault/InitRow/{Key}
-Content-Type: application/json
-
-{ "ColumnName": "Value" }

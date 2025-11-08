@@ -1,9 +1,0 @@
-POST http://localhost:9008/SV5/BillItemsTable/InsertWithChecks/ForUnique
-Content-Type: application/json
-
-{
-  "ItemName": "",
-  "Rate": "",
-  "Qty": "",
-  "Amount": ""
-}

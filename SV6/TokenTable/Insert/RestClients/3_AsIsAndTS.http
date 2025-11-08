@@ -1,6 +1,0 @@
-POST http://localhost:9008/SV6/TokenTable/Insert/AsIsAndTS
-Content-Type: application/json
-
-{
-  "Secret": ""
-}

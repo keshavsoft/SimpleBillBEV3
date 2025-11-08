@@ -1,4 +1,0 @@
-POST http://localhost:9008/V6/BillItemsTable/AddWithDefault/InsertFromBody
-Content-Type: application/json
-
-{ "Key": "","Value":"" }
